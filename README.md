@@ -1,16 +1,22 @@
 ![DSGG Portugal](assets/dssg_logo_lettering.png)
 
-# 👶🚀 Mini-Projecto [NOME_FIXE_DO_MINI_PROJECTO] 
+# 👶🚀 Mini-Projecto [Mapeamento de Códigos Postais para localizações em Portugal] 
 
-Este é o repositório do Mini-Projecto **[TODO: NOME_FIXE_DO_MINI_PROJECTO]**.
+Este é o repositório do Mini-Projecto **[Mapeamento de Códigos Postais para localizações em Portugal]**.
 
 ## 🤔 Contexto
 
-**TODO**: Descrição breve do contexto (social, económico, tecnológico, dados, etc) em que se insere o Mini-Projecto.
+O Banco Alimentar - Rede de Emergência Alimentar tem estado a modernizar a sua gestão de informação. De momento, encontram-se a trabalhar no desenvolvimento de uma plataforma web para a gestão de pedidos de ajuda alimentar.
+
+Um dos desafios desta plataforma será reduzir, tanto quanto possível, a introdução manual de dados, uma das maiores causas de duplicação de pedidos devido a gralhas e erros ortográficos.
+
+Assim, seria fundamental conseguir obter a freguesia, concelho e distrito a partir do código postal na forma XXXX-XXX.
+
+Algumas ferramentas existentes permitem fazê-lo, como a plataforma dos CTT e a API [Dumínio](https://www.duminio.com/ptcp/#two), mas estes não têm em conta a atualização de freguesias após a Reorganização Administrativa do Território das Freguesias ocorrida em 2012. 
 
 ## 🥅 Objectivo
 
-**TODO**: Descrição breve do objectivo que se procura para o Mini-Projecto e dos benefícios que esse objectivo trará. 
+Criação de uma tabela .csv, e de uma API, que permita o mapeamento entre um código postal na forma XXXX-XXX e a freguesia, concelho e distrito correspondente, com a atualização de freguesias após a Reorganização Administrativa do Território das Freguesias ocorrida em 2012. 
 
 ## ⛲ Fontes de dados
 
