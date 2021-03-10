@@ -16,39 +16,36 @@ Algumas ferramentas existentes permitem fazê-lo, como a plataforma dos CTT e a 
 
 ## 🥅 Objectivo
 
-Criação de uma tabela .csv, e de uma API, que permita o mapeamento entre um código postal na forma XXXX-XXX e a freguesia, concelho e distrito correspondente, com a atualização de freguesias após a Reorganização Administrativa do Território das Freguesias ocorrida em 2012. 
+Criação de uma tabela .csv que permita o mapeamento entre um código postal na forma XXXX-XXX e a freguesia, concelho e distrito correspondente, com a atualização de freguesias após a Reorganização Administrativa do Território das Freguesias ocorrida em 2012. 
 
 ## ⛲ Fontes de dados
 
-**TODO**: Listagem e breve descrição das fontes de dados que alimentarão este projecto
-
-+ Fonte de dados A 
-+ Fonte de dados B
-+ Fonte de dados C
+O miniprojeto será criado a partir de duas fontes de dados distintas, sendo que os participantes podem encontrar alternativas:
+- [API para mapeamento entre Código Postal e Localização, com as denominações antigas](https://www.duminio.com/ptcp/#two)
+- [Mapeamento entre denominações pós 2013 e pré 2013] (https://www.sg.mai.gov.pt/AdministracaoEleitoral/Autarquias/ReorganizacaoFreguesias/Paginas/default.aspx) 
 
 ## 🧱 Principais etapas
 
-**TODO**: Uma listagem sumária dos principais pacotes de trabalho desde o dia 1 até a conclusão do Mini-Projecto.
+O projeto seguirá dois passos:
 
-+ Extrair coisas 
-+ Transformar coisas
-+ Aprender coisas
+- Mapeamento entre código postal e freguesia, concelho, e distrito
+- Conversão das freguesias após a Reorganização Administrativa do Território das Freguesias ocorrida em 2012
 
 ## 🎯 Resultado final esperado
 
-**TODO**: Uma descrição mais técnica e fechada do resultado final concreto que se procura com este Mini-Projecto. 
+Ficheiro CSV com mapeamento entre todos os códigos postais possíveis em Portugal e a freguesia, concelho, e distrito. 
 
 ## 👥 Equipa
 
-Este Mini-Projecto está pensado para uma equipa com, no máximo, **TODO** pessoas. _Se necessário, descrever em poucas palavras os perfis (em termos de capacidades técnicas e áreas de trabalho) que se procuram_.
+Este Mini-Projecto está pensado para uma equipa com, no máximo, 1 pessoa.
 
 ## ⏲️ Duração prevista
 
-Dado o tamanho da equipa e os resultados finais descritos, este mini-projecto tem uma duração estimada de **TODO** semanas (com a alocação de algumas horas por semana por cada membro da equipa).
+Dado o tamanho da equipa e os resultados finais descritos, este mini-projecto tem uma duração estimada de 4 semanas (com a alocação de algumas horas por semana por cada membro da equipa).
 
 ## 🔁 Reprodutibilidade
 
-**TODO**: Ambientes virtuais, dependências, etc. 
+O código utilizado para reproduzir os resultados do miniprojeto deverá estar organizado neste repositório, com as dependências necessárias descritas num ficheiro. 
 
 # 👉 Chegaste aqui e queres juntar-te a este Mini-Projecto?
 
