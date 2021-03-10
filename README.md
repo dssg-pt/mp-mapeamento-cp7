@@ -22,7 +22,7 @@ Criação de uma tabela .csv que permita o mapeamento entre um código postal na
 
 O miniprojeto será criado a partir de duas fontes de dados distintas, sendo que os participantes podem encontrar alternativas:
 - [API para mapeamento entre Código Postal e Localização, com as denominações antigas](https://www.duminio.com/ptcp/#two)
-- [Mapeamento entre denominações pós 2013 e pré 2013] (https://www.sg.mai.gov.pt/AdministracaoEleitoral/Autarquias/ReorganizacaoFreguesias/Paginas/default.aspx) 
+- [Mapeamento entre denominações pós 2013 e pré 2013](https://www.sg.mai.gov.pt/AdministracaoEleitoral/Autarquias/ReorganizacaoFreguesias/Paginas/default.aspx) 
 
 ## 🧱 Principais etapas
 
