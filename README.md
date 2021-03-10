@@ -22,7 +22,7 @@ Criação de uma tabela .csv que permita o mapeamento entre um código postal na
 
 O miniprojeto será criado a partir de duas fontes de dados distintas, sendo que os participantes podem encontrar alternativas:
 - [API para mapeamento entre Código Postal e Localização, com as denominações antigas](https://www.duminio.com/ptcp/#two)
-- [Mapeamento entre denominações pós 2013 e pré 2013](https://www.sg.mai.gov.pt/AdministracaoEleitoral/Autarquias/ReorganizacaoFreguesias/Paginas/default.aspx) 
+- [Mapeamento entre denominações pós 2012 e pré 2012](https://www.sg.mai.gov.pt/AdministracaoEleitoral/Autarquias/ReorganizacaoFreguesias/Paginas/default.aspx) 
 
 ## 🧱 Principais etapas
 
@@ -34,6 +34,7 @@ O projeto seguirá dois passos:
 ## 🎯 Resultado final esperado
 
 Ficheiro CSV com mapeamento entre todos os códigos postais possíveis em Portugal e a freguesia, concelho, e distrito. 
+O ficheiro que mapeia denominações antigas a denominações novas deverá estar presente no repositório e separado dos restantes, para que a alteração a ser feita ao código seja simples, caso haja uma nova reorganização de freguesias.
 
 ## 👥 Equipa
 
