@@ -16,7 +16,7 @@ Algumas ferramentas existentes permitem fazê-lo, como a plataforma dos CTT e a 
 
 ## 🥅 Objectivo
 
-Criação de uma tabela .csv que permita o mapeamento entre um código postal na forma XXXX-XXX e a freguesia, concelho e distrito correspondente, com a atualização de freguesias após a Reorganização Administrativa do Território das Freguesias ocorrida em 2012. 
+Criação de uma tabela .csv e endpoint que permita o mapeamento entre um código postal na forma XXXX-XXX e a freguesia, concelho e distrito correspondente, com a atualização de freguesias após a Reorganização Administrativa do Território das Freguesias ocorrida em 2012. 
 
 ## ⛲ Fontes de dados
 
@@ -30,10 +30,11 @@ O projeto seguirá dois passos:
 
 - Mapeamento entre código postal e freguesia, concelho, e distrito
 - Conversão das freguesias após a Reorganização Administrativa do Território das Freguesias ocorrida em 2012
+- Criação de um endpoint em FastAPI/Flask para fazer os pedidos
 
 ## 🎯 Resultado final esperado
 
-Ficheiro CSV com mapeamento entre todos os códigos postais possíveis em Portugal e a freguesia, concelho, e distrito. 
+Ficheiro CSV e Endpoint (com imagem Docker) com mapeamento entre todos os códigos postais possíveis em Portugal e a freguesia, concelho, e distrito. 
 O ficheiro que mapeia denominações antigas a denominações novas deverá estar presente no repositório e separado dos restantes, para que a alteração a ser feita ao código seja simples, caso haja uma nova reorganização de freguesias.
 
 ## 👥 Equipa
@@ -42,7 +43,7 @@ Este Mini-Projecto está pensado para uma equipa com, no máximo, 1 pessoa.
 
 ## ⏲️ Duração prevista
 
-Dado o tamanho da equipa e os resultados finais descritos, este mini-projecto tem uma duração estimada de 4 semanas (com a alocação de algumas horas por semana por cada membro da equipa).
+Dado o tamanho da equipa e os resultados finais descritos, este mini-projecto tem uma duração estimada de 4 semanas (com a alocação de algumas horas por semana por cada membro da equipa) para a conclusão dos 2 primeiros pontos, mais 2 semanas para a criação do endpoint.
 
 ## 🔁 Reprodutibilidade
 
