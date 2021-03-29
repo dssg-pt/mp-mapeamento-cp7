@@ -23,6 +23,7 @@ Criação de uma tabela .csv e endpoint que permita o mapeamento entre um códig
 O miniprojeto será criado a partir de duas fontes de dados distintas, sendo que os participantes podem encontrar alternativas:
 - [API para mapeamento entre Código Postal e Localização, com as denominações antigas](https://www.duminio.com/ptcp/#two)
 - [Mapeamento entre denominações pós 2012 e pré 2012](https://www.sg.mai.gov.pt/AdministracaoEleitoral/Autarquias/ReorganizacaoFreguesias/Paginas/default.aspx) 
+- [Bases de dados de moradas CTT](http://centraldedados.pt/codigos_postais/) 
 
 ## 🧱 Principais etapas
 
