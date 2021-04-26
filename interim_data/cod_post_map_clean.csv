@@ -1,4 +1,4 @@
-Distrito/Ilha,Concelho,Freguesia Pré RATF,Alteração RATF,Freguesia Final (Pós RATF)
+Distrito,Concelho,Freguesia,Alteração RATF,Freguesia Final (Pós RATF)
 Aveiro,Águeda,Aguada de Cima,Sem alteração,Aguada de Cima
 Aveiro,Águeda,Fermentelos,Sem alteração,Fermentelos
 Aveiro,Águeda,Macinhata do Vouga,Sem alteração,Macinhata do Vouga
@@ -4050,14 +4050,14 @@ Viseu,Vouzela,Fataunços,Agregação,União das freguesias de Fataunços e Figue
 Viseu,Vouzela,Figueiredo das Donas,Agregação,União das freguesias de Fataunços e Figueiredo das Donas
 Viseu,Vouzela,Vouzela,Agregação,União das freguesias de Vouzela e Paços de Vilharigues
 Viseu,Vouzela,Paços de Vilharigues,Agregação,União das freguesias de Vouzela e Paços de Vilharigues
-Ilha da Madeira,Calheta (R.A.M.),Arco da Calheta,Não abrangida pela RATF,Arco da Calheta
-Ilha da Madeira,Calheta (R.A.M.),Calheta (R.A.Madeira),Não abrangida pela RATF,Calheta (R.A.Madeira)
-Ilha da Madeira,Calheta (R.A.M.),Estreito da Calheta,Não abrangida pela RATF,Estreito da Calheta
-Ilha da Madeira,Calheta (R.A.M.),Fajã da Ovelha,Não abrangida pela RATF,Fajã da Ovelha
-Ilha da Madeira,Calheta (R.A.M.),Jardim do Mar,Não abrangida pela RATF,Jardim do Mar
-Ilha da Madeira,Calheta (R.A.M.),Paul do Mar,Não abrangida pela RATF,Paul do Mar
-Ilha da Madeira,Calheta (R.A.M.),Ponta do Pargo,Não abrangida pela RATF,Ponta do Pargo
-Ilha da Madeira,Calheta (R.A.M.),Prazeres,Não abrangida pela RATF,Prazeres
+Ilha da Madeira,Calheta ,Arco da Calheta,Não abrangida pela RATF,Arco da Calheta
+Ilha da Madeira,Calheta ,Calheta (R.A.Madeira),Não abrangida pela RATF,Calheta (R.A.Madeira)
+Ilha da Madeira,Calheta ,Estreito da Calheta,Não abrangida pela RATF,Estreito da Calheta
+Ilha da Madeira,Calheta ,Fajã da Ovelha,Não abrangida pela RATF,Fajã da Ovelha
+Ilha da Madeira,Calheta ,Jardim do Mar,Não abrangida pela RATF,Jardim do Mar
+Ilha da Madeira,Calheta ,Paul do Mar,Não abrangida pela RATF,Paul do Mar
+Ilha da Madeira,Calheta ,Ponta do Pargo,Não abrangida pela RATF,Ponta do Pargo
+Ilha da Madeira,Calheta ,Prazeres,Não abrangida pela RATF,Prazeres
 Ilha da Madeira,Câmara de Lobos,Câmara de Lobos,Não abrangida pela RATF,Câmara de Lobos
 Ilha da Madeira,Câmara de Lobos,Curral das Freiras,Não abrangida pela RATF,Curral das Freiras
 Ilha da Madeira,Câmara de Lobos,Estreito de Câmara de Lobos,Não abrangida pela RATF,Estreito de Câmara de Lobos
@@ -4124,22 +4124,22 @@ Ilha de Santa Maria,Vila do Porto,Santa Bárbara,Não abrangida pela RATF,Santa 
 Ilha de Santa Maria,Vila do Porto,Santo Espírito,Não abrangida pela RATF,Santo Espírito
 Ilha de Santa Maria,Vila do Porto,São Pedro,Não abrangida pela RATF,São Pedro
 Ilha de Santa Maria,Vila do Porto,Vila do Porto,Não abrangida pela RATF,Vila do Porto
-Ilha de São Jorge,Calheta (R.A.A.),Calheta (R.A.Açores),Não abrangida pela RATF,Calheta (R.A.Açores)
-Ilha de São Jorge,Calheta (R.A.A.),Norte Pequeno (R.A.Açores),Não abrangida pela RATF,Norte Pequeno (R.A.Açores)
-Ilha de São Jorge,Calheta (R.A.A.),Ribeira Seca (R.A.Açores),Não abrangida pela RATF,Ribeira Seca (R.A.Açores)
-Ilha de São Jorge,Calheta (R.A.A.),Santo Antão (R.A.Açores),Não abrangida pela RATF,Santo Antão (R.A.Açores)
-Ilha de São Jorge,Calheta (R.A.A.),Topo (Nossa Senhora do Rosário)(R.A.Açores),Não abrangida pela RATF,Topo (Nossa Senhora do Rosário)(R.A.Açores)
+Ilha de São Jorge,Calheta ,Calheta (R.A.Açores),Não abrangida pela RATF,Calheta (R.A.Açores)
+Ilha de São Jorge,Calheta ,Norte Pequeno (R.A.Açores),Não abrangida pela RATF,Norte Pequeno (R.A.Açores)
+Ilha de São Jorge,Calheta ,Ribeira Seca (R.A.Açores),Não abrangida pela RATF,Ribeira Seca (R.A.Açores)
+Ilha de São Jorge,Calheta ,Santo Antão (R.A.Açores),Não abrangida pela RATF,Santo Antão (R.A.Açores)
+Ilha de São Jorge,Calheta ,Topo (Nossa Senhora do Rosário)(R.A.Açores),Não abrangida pela RATF,Topo (Nossa Senhora do Rosário)(R.A.Açores)
 Ilha de São Jorge,Velas,Manadas (Santa Bárbara)(R.A.Açores),Não abrangida pela RATF,Manadas (Santa Bárbara)(R.A.Açores)
 Ilha de São Jorge,Velas,Norte Grande (Neves) (R.A.Açores),Não abrangida pela RATF,Norte Grande (Neves) (R.A.Açores)
 Ilha de São Jorge,Velas,Rosais (R.A.Açores),Não abrangida pela RATF,Rosais (R.A.Açores)
 Ilha de São Jorge,Velas,Santo Amaro (R.A.Açores),Não abrangida pela RATF,Santo Amaro (R.A.Açores)
 Ilha de São Jorge,Velas,Urzelina (São Mateus) (R.A.Açores),Não abrangida pela RATF,Urzelina (São Mateus) (R.A.Açores)
 Ilha de São Jorge,Velas,Velas (São Jorge) (R.A.Açores),Não abrangida pela RATF,Velas (São Jorge) (R.A.Açores)
-Ilha de São Miguel,Lagoa (R.A.A),Água de Pau,Não abrangida pela RATF,Água de Pau
-Ilha de São Miguel,Lagoa (R.A.A),Cabouco,Não abrangida pela RATF,Cabouco
-Ilha de São Miguel,Lagoa (R.A.A),Lagoa (Nossa Senhora do Rosário),Não abrangida pela RATF,Lagoa (Nossa Senhora do Rosário)
-Ilha de São Miguel,Lagoa (R.A.A),Lagoa (Santa Cruz),Não abrangida pela RATF,Lagoa (Santa Cruz)
-Ilha de São Miguel,Lagoa (R.A.A),Ribeira Chã,Não abrangida pela RATF,Ribeira Chã
+Ilha de São Miguel,Lagoa ,Água de Pau,Não abrangida pela RATF,Água de Pau
+Ilha de São Miguel,Lagoa ,Cabouco,Não abrangida pela RATF,Cabouco
+Ilha de São Miguel,Lagoa ,Lagoa (Nossa Senhora do Rosário),Não abrangida pela RATF,Lagoa (Nossa Senhora do Rosário)
+Ilha de São Miguel,Lagoa ,Lagoa (Santa Cruz),Não abrangida pela RATF,Lagoa (Santa Cruz)
+Ilha de São Miguel,Lagoa ,Ribeira Chã,Não abrangida pela RATF,Ribeira Chã
 Ilha de São Miguel,Nordeste,Achada,Não abrangida pela RATF,Achada
 Ilha de São Miguel,Nordeste,Achadinha,Não abrangida pela RATF,Achadinha
 Ilha de São Miguel,Nordeste,Algarvia,Não abrangida pela RATF,Algarvia
@@ -4249,14 +4249,14 @@ Ilha Terceira,Angra do Heroísmo,São Mateus da Calheta,Não abrangida pela RATF
 Ilha Terceira,Angra do Heroísmo,Serreta,Não abrangida pela RATF,Serreta
 Ilha Terceira,Angra do Heroísmo,Terra Chã,Não abrangida pela RATF,Terra Chã
 Ilha Terceira,Angra do Heroísmo,Vila de São Sebastião,Não abrangida pela RATF,Vila de São Sebastião
-Ilha Terceira,Vila da Praia da Vitória,Agualva,Não abrangida pela RATF,Agualva
-Ilha Terceira,Vila da Praia da Vitória,Biscoitos,Não abrangida pela RATF,Biscoitos
-Ilha Terceira,Vila da Praia da Vitória,Cabo da Praia,Não abrangida pela RATF,Cabo da Praia
-Ilha Terceira,Vila da Praia da Vitória,Fonte do Bastardo,Não abrangida pela RATF,Fonte do Bastardo
-Ilha Terceira,Vila da Praia da Vitória,Fontinhas,Não abrangida pela RATF,Fontinhas
-Ilha Terceira,Vila da Praia da Vitória,Lajes,Não abrangida pela RATF,Lajes
-Ilha Terceira,Vila da Praia da Vitória,Porto Martins,Não abrangida pela RATF,Porto Martins
-Ilha Terceira,Vila da Praia da Vitória,Praia da Vitória (Santa Cruz),Não abrangida pela RATF,Praia da Vitória (Santa Cruz)
-Ilha Terceira,Vila da Praia da Vitória,Quatro Ribeiras,Não abrangida pela RATF,Quatro Ribeiras
-Ilha Terceira,Vila da Praia da Vitória,São Brás,Não abrangida pela RATF,São Brás
-Ilha Terceira,Vila da Praia da Vitória,Vila Nova,Não abrangida pela RATF,Vila Nova
+Ilha Terceira,Praia da Vitória,Agualva,Não abrangida pela RATF,Agualva
+Ilha Terceira,Praia da Vitória,Biscoitos,Não abrangida pela RATF,Biscoitos
+Ilha Terceira,Praia da Vitória,Cabo da Praia,Não abrangida pela RATF,Cabo da Praia
+Ilha Terceira,Praia da Vitória,Fonte do Bastardo,Não abrangida pela RATF,Fonte do Bastardo
+Ilha Terceira,Praia da Vitória,Fontinhas,Não abrangida pela RATF,Fontinhas
+Ilha Terceira,Praia da Vitória,Lajes,Não abrangida pela RATF,Lajes
+Ilha Terceira,Praia da Vitória,Porto Martins,Não abrangida pela RATF,Porto Martins
+Ilha Terceira,Praia da Vitória,Praia da Vitória (Santa Cruz),Não abrangida pela RATF,Praia da Vitória (Santa Cruz)
+Ilha Terceira,Praia da Vitória,Quatro Ribeiras,Não abrangida pela RATF,Quatro Ribeiras
+Ilha Terceira,Praia da Vitória,São Brás,Não abrangida pela RATF,São Brás
+Ilha Terceira,Praia da Vitória,Vila Nova,Não abrangida pela RATF,Vila Nova
