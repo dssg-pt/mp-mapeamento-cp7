@@ -102,8 +102,3 @@ def get_from_cod_postal(distrito, concelho, localidade, cod_postal):
                     except KeyError:
                         ...
     return {}
-
-if __name__ == '__main__':
-    postal_code = '2590432'
-    #print(get_from_duminio(postal_code))
-    #print(get_from_cod_postal('Perre'))
