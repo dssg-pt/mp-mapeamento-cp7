@@ -33,14 +33,36 @@ O projeto seguirá dois passos:
 - Conversão das freguesias após a Reorganização Administrativa do Território das Freguesias ocorrida em 2012
 - Criação de um endpoint em FastAPI/Flask para fazer os pedidos
 
-## 🎯 Resultado final esperado
+## 🎯 Resultado final
 
-Ficheiro CSV e Endpoint (com imagem Docker) com mapeamento entre todos os códigos postais possíveis em Portugal e a freguesia, concelho, e distrito. 
-O ficheiro que mapeia denominações antigas a denominações novas deverá estar presente no repositório e separado dos restantes, para que a alteração a ser feita ao código seja simples, caso haja uma nova reorganização de freguesias.
+Ficheiro CSV com mapeamento entre todos os códigos postais possíveis em Portugal e a freguesia, concelho, e distrito, disponível em:
+ - [cod_post_freg_matched.csv](https://github.com/dssg-pt/mp-mapeamento-cp7/blob/main/output_data/cod_post_freg_matched.csv)
+
+Endpoint com imagem Docker em:
+ - [API](https://github.com/dssg-pt/mp-mapeamento-cp7/tree/main/api)
+ - Exemplo de utilização:
+  ```
+  http://127.0.0.1:8000/1234567
+  ```
+  
+  Resposta:
+  ```
+  0:
+      'Distrito': "XXXXX"
+      'Concelho': "XXXXX"
+      'Freguesia': "XXXXX"
+      'CodigoPostal': 1234567
+  ```
+
+Limitações:
+
+  Não se conseguiu encontrar informação relativamente a 1257 códigos postais, disponíveis em [cod_post_freg_missing.csv](https://github.com/dssg-pt/mp-mapeamento-cp7/blob/main/output_data/cod_post_freg_missing.csv).
 
 ## 👥 Equipa
 
-Este Mini-Projecto está pensado para uma equipa com, no máximo, 1 pessoa.
+- João Rodrigues:
+  - [GitHub](https://github.com/J-Rodrigues0)
+  - [LinkedIn](https://www.linkedin.com/in/joao-rodrigues0/)
 
 ## ⏲️ Duração prevista
 
